@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.dc24e253.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.3caa448e.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.3caa448e.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.47abbd38.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.47abbd38.js.map",
+    "static/css/2.cc77c331.chunk.css": "/React-Portfolio/static/css/2.cc77c331.chunk.css",
+    "static/js/2.5dd3181c.chunk.js": "/React-Portfolio/static/js/2.5dd3181c.chunk.js",
+    "static/js/2.5dd3181c.chunk.js.map": "/React-Portfolio/static/js/2.5dd3181c.chunk.js.map",
+    "static/js/3.8804ad0a.chunk.js": "/React-Portfolio/static/js/3.8804ad0a.chunk.js",
+    "static/js/3.8804ad0a.chunk.js.map": "/React-Portfolio/static/js/3.8804ad0a.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.cc77c331.chunk.css.map": "/React-Portfolio/static/css/2.cc77c331.chunk.css.map",
+    "static/css/main.dc24e253.chunk.css.map": "/React-Portfolio/static/css/main.dc24e253.chunk.css.map",
+    "static/js/2.5dd3181c.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.5dd3181c.chunk.js.LICENSE.txt",
+    "static/media/01.png": "/React-Portfolio/static/media/01.78567feb.png",
+    "static/media/02.png": "/React-Portfolio/static/media/02.bd5877ff.png",
+    "static/media/03.png": "/React-Portfolio/static/media/03.d307c49c.png",
+    "static/media/04.png": "/React-Portfolio/static/media/04.cbf7b6a5.png",
+    "static/media/05.png": "/React-Portfolio/static/media/05.ad80c4b6.png",
+    "static/media/06.png": "/React-Portfolio/static/media/06.1f042024.png",
+    "static/media/07.png": "/React-Portfolio/static/media/07.e2c50d93.png",
+    "static/media/08.png": "/React-Portfolio/static/media/08.1892c0be.png",
+    "static/media/09.png": "/React-Portfolio/static/media/09.748dee46.png",
+    "static/media/10.png": "/React-Portfolio/static/media/10.0add576c.png",
+    "static/media/11.png": "/React-Portfolio/static/media/11.fc6499c8.png",
+    "static/media/12.png": "/React-Portfolio/static/media/12.93dfcf62.png",
+    "static/media/13.png": "/React-Portfolio/static/media/13.5af45e3e.png",
+    "static/media/14.png": "/React-Portfolio/static/media/14.2fc5868c.png",
+    "static/media/Kruti_resume_ SE.83b578ef.pdf": "/React-Portfolio/static/media/",
+    "static/media/index.css": "/React-Portfolio/static/media/background.bc9091de.jpg",
+    "static/media/daniel.jpg": "/React-Portfolio/static/media/daniel.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47abbd38.js",
+    "static/css/2.cc77c331.chunk.css",
+    "static/js/2.5dd3181c.chunk.js",
+    "static/css/main.dc24e253.chunk.css",
+    "static/js/main.3caa448e.chunk.js"
+  ]
+}
