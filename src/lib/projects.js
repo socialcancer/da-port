@@ -114,32 +114,3 @@ projects.forEach((project, i) => {
 
 // displays newest projects first
 projects.reverse();
-
-// same logic for showcase items below this point
-
-// const showcaseImages = importAll(require.context('../assets/images/showcase/thumbnails', false, /\.png$/));
-
-// export const showcase = [
-//     {
-//         id: 1,
-//         name: 'COVIINFO',
-//         text: 'COVIINFO?, my first group project.',
-//         technologies: 'JavaScript, covid-19 and news API, chart.js, HTML, Materialize',
-//         deployed: true,
-//         link: 'https://group6-uot.github.io/uot-project1-group6/',
-//         github: 'https://github.com/Group6-UoT/uot-project1-group6',
-//         description: 'COVIINFO gives the information about the covid-19 realted data. It includes the total number of the cases in the canada. It also give the information about the total vaccinated people in the city vise and provide the information abot the covide speread in world wide. The informatoon is displayed in a chart form so that easy to get the informations and also use can slect the startes in the canada and find such informations!'
-//     },
-//     {
-//         id: 2,
-//         name: 'window shoppers',
-//         text: 'Something Special, a buying and selling products application created with MySQL and Handlebars',
-//         technologies: 'Node.js, Express.js, MySQL, Sequelize, Firebase, Handlebars',
-//         deployed: true,
-//         link: 'https://project2-window-shopper.herokuapp.com/',
-//         github: 'https://github.com/Gr0upFour/projectTwo',
-//         description: 'window shoppers allow user to buy and sell their products online. In this application the chat feature also provided so that user and buyer can communicate with eachother. Also there are some other feed are in the main page, which show the latest top rating news and products so that use can get more idias about that.'
-//     }
-// ];
-
-// showcase.forEach((project, i) => project.image = showcaseImages[`0${i + 1}.png`].default)
