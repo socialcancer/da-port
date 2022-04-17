@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "DCA's Port",
   "private": true,
-  "homepage": "https://github.com/socialcancer/da-react-port",
+  "homepage": "https://github.com/socialcancer/da-port",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -55,9 +55,9 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/socialcancer/da-react-port.git"
+    "url": "git+https://github.com/socialcancer/da-port.git"
   },
   "bugs": {
-    "url": "https://github.com/socialcancer/da-react-port/issues"
+    "url": "https://github.com/socialcancer/da-port/issues"
   }
 }
